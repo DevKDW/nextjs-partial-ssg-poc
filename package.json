@@ -1,0 +1,27 @@
+{
+    "name": "nextjs-partial-ssg",
+    "version": "1.0.0",
+    "description": "A Next.js project demonstrating partial SSG, full SSR, and app-based routing.",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "nextjs",
+        "ssg",
+        "ssr",
+        "app-routing"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^14.0.4",
+        "nextjs-partial-ssg": "file:",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}

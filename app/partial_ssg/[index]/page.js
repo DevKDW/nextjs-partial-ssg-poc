@@ -1,6 +1,6 @@
 export const revalidate = 60; // ISR time
 //Comment below-line to break SSG / ISR
-export const dynamic = 'force-static';
+//export const dynamic = 'force-static';
 
 export async function generateStaticParams() {
   // Empty array to indicate no paths pre-generated

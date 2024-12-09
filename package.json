@@ -19,7 +19,7 @@
     "author": "Your Name",
     "license": "MIT",
     "dependencies": {
-        "next": "^14.0.4",
+        "next": "14.2.1",
         "nextjs-partial-ssg": "file:",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
